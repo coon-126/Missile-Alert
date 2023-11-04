@@ -14,5 +14,10 @@ Right-clicking on the widget opens a context menu with several options:
 5. Exit the application.
 This system serves as a real-time alerting tool to keep users informed about missile threats, allowing quick actions to be taken to ensure safety.
 
+To run this application, you will need to have the following libraries installed:
+
+PyQt5 - pip install PyQt5
+Pygame - pip install pygame
+
 ![2](https://github.com/coon-126/Missile-Alert/assets/77004556/2e132c50-f27f-4fec-9899-96b38040b1a2)
 ![1](https://github.com/coon-126/Missile-Alert/assets/77004556/15f05e04-954d-4ba5-b6c7-f824abe71263)
